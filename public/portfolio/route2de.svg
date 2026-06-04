@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F7F9FC"/>
+  <rect x="64" y="64" width="1072" height="672" rx="24" fill="white" stroke="#E6EAF2" stroke-width="2"/>
+  <path d="M120 560C230 420 350 430 470 510C610 603 732 560 850 408C930 305 1005 274 1080 300" stroke="#2F6BFF" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="278" cy="384" r="72" fill="#DDE6FF"/>
+  <circle cx="786" cy="292" r="96" fill="#EAF0FF"/>
+  <rect x="120" y="120" width="360" height="44" rx="12" fill="#2F6BFF"/>
+  <rect x="120" y="196" width="500" height="24" rx="12" fill="#DDE6FF"/>
+  <text x="120" y="645" fill="#1A2233" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">Route2DE</text>
+  <text x="120" y="695" fill="#5B6475" font-family="Inter, Arial, sans-serif" font-size="28">Image placeholder - replace this file</text>
+</svg>
