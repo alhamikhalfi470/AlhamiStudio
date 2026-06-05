@@ -1,9 +1,9 @@
 const pricing = [
   {
-    name: "AI MVP Build",
+    name: "MVP Pre-Commercial",
     price: "Up to €600",
     description:
-      "Turn your app idea into a small working MVP. Perfect for non-technical founders who want to test one core workflow before investing in a full product.",
+      "A simple pre-commercial MVP for testing one core idea before investing in a full product.",
     fit: [
       "Founders with a new app idea",
       "Founders without a technical co-founder",
@@ -51,10 +51,10 @@ const pricing = [
     ],
   },
   {
-    name: "Advanced MVP Product",
+    name: "Ready Commercial MVP Product",
     price: "Starting from €1.999",
     description:
-      "Already have a prototype or early MVP? I help you continue, polish, and turn it into a beta-ready product with better UX, core features, Firebase backend, and a cleaner product structure.",
+      "A more complete MVP product for founders who want a cleaner, more usable version ready for commercial validation.",
     fit: [
       "Founders who already have a prototype",
       "Founders who already have a rough MVP",
@@ -62,7 +62,7 @@ const pricing = [
       "Demo for potential customers",
       "Pilot project",
       "Early paying users",
-      "Commercial validation",
+      "Ready for commercial validation",
     ],
     deliverables: [
       {
@@ -72,7 +72,7 @@ const pricing = [
           "Scope refinement",
           "Feature prioritization",
           "User journey improvement",
-          "Beta launch roadmap",
+          "Commercial launch roadmap",
           "Commercial-readiness checklist",
         ],
       },
@@ -101,7 +101,7 @@ const pricing = [
           "Light file/image upload if needed",
           "Basic analytics setup",
           "Better navigation structure",
-          "Beta deployment / preview link",
+          "Commercial-ready deployment / preview link",
         ],
       },
       {
@@ -179,9 +179,9 @@ export default function LandingPage() {
           </article>
 
           <article className="relative min-h-[304px] overflow-hidden rounded-lg border border-white/80 bg-[#eef3ff] p-7 shadow-card md:col-span-2 lg:col-span-3">
-            <p className="text-sm font-semibold text-brand-primary">AI MVP Build</p>
+            <p className="text-sm font-semibold text-brand-primary">MVP Pre-Commercial</p>
             <h2 className="mt-4 text-4xl font-semibold leading-tight">Up to €600</h2>
-            <p className="mt-4 leading-7 text-brand-muted">Small working MVP for one core workflow.</p>
+            <p className="mt-4 leading-7 text-brand-muted">Simple MVP for testing one core idea.</p>
             <a
               href="#pricing"
               className="absolute bottom-6 right-6 grid size-11 place-items-center rounded-full bg-white text-xl shadow-card transition hover:text-brand-primary"
